@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kuchige-diagnosis/static/css/main.d20019cf.css",
+    "main.js": "/kuchige-diagnosis/static/js/main.a936cd98.js",
+    "index.html": "/kuchige-diagnosis/index.html",
+    "main.d20019cf.css.map": "/kuchige-diagnosis/static/css/main.d20019cf.css.map",
+    "main.a936cd98.js.map": "/kuchige-diagnosis/static/js/main.a936cd98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d20019cf.css",
+    "static/js/main.a936cd98.js"
+  ]
+}
