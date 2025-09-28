@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/kuchige-diagnosis3/static/js/main.fbeeef67.js",
-    "index.html": "/kuchige-diagnosis3/index.html",
-    "main.fbeeef67.js.map": "/kuchige-diagnosis3/static/js/main.fbeeef67.js.map"
+    "main.js": "/kuchiguse-diagnosis3/static/js/main.02af2877.js",
+    "index.html": "/kuchiguse-diagnosis3/index.html",
+    "main.02af2877.js.map": "/kuchiguse-diagnosis3/static/js/main.02af2877.js.map"
   },
   "entrypoints": [
-    "static/js/main.fbeeef67.js"
+    "static/js/main.02af2877.js"
   ]
 }
