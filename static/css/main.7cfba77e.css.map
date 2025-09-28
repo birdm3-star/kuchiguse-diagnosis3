@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.7cfba77e.css","mappings":"0EAEA,KAEE,6BAAiC,CADjC,QAEF","sources":["index.css"],"sourcesContent":["@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');\n\nbody {\n  margin: 0;\n  font-family: 'Roboto', sans-serif;\n}\n"],"names":[],"sourceRoot":""}

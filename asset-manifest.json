@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/kuchige-diagnosis3/static/css/main.d20019cf.css",
+    "main.css": "/kuchige-diagnosis3/static/css/main.7cfba77e.css",
     "main.js": "/kuchige-diagnosis3/static/js/main.a936cd98.js",
     "index.html": "/kuchige-diagnosis3/index.html",
-    "main.d20019cf.css.map": "/kuchige-diagnosis3/static/css/main.d20019cf.css.map",
+    "main.7cfba77e.css.map": "/kuchige-diagnosis3/static/css/main.7cfba77e.css.map",
     "main.a936cd98.js.map": "/kuchige-diagnosis3/static/js/main.a936cd98.js.map"
   },
   "entrypoints": [
-    "static/css/main.d20019cf.css",
+    "static/css/main.7cfba77e.css",
     "static/js/main.a936cd98.js"
   ]
 }
